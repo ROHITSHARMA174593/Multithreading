@@ -13,4 +13,6 @@ public class OrderingSequencing {
 
     // in our JVM there is no ordering
     // it depends on which thing is ready for execution
+
+    // todo: There is no  ordering in variable initialization in Java (because of JVM optimization) (JVM uses multiple algorithms for optimize the Memory initialization)
 }
